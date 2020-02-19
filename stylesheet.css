@@ -1,0 +1,27 @@
+body{
+	background-image: repeating-radial-gradient(circle, red,orange 13%,yellow 20%,green 10%,blue 26%,indigo 11%,violet 69%);
+}
+
+p{
+	writing-mode: vertical-rl; 
+	background-color: lime;
+	color: purple;
+}
+
+h1 {
+	color: lime;
+	border-style: dashed;
+	border-color: purple;
+	background-color: orange;
+	text-align: center;
+}
+
+#tomato{
+	float: left;
+	transition: width 2s;
+	transform: rotate(180deg);
+}
+
+#tomato:hover{
+	width: 300px;
+}
