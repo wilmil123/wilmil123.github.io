@@ -31,11 +31,11 @@ h1 {
 
 .sublink{
 	text-decoration: none;
+	background-color: darkgreen;
+	color: deeppink;
 }
 
 #paraii{
 	height: 8cm;
 	float: right;
-	background-color: darkgreen;
-	color: deeppink;
 }
