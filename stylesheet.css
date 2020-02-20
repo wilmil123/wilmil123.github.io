@@ -20,6 +20,9 @@ h1 {
 	float: left;
 	transition: width 2s;
 	transform: rotate(180deg);
+	border-style: dashed;
+	border-width: 10px;
+	border-color: crimson;
 }
 
 #tomato:hover{
