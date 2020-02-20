@@ -2,7 +2,7 @@ body{
 	background-image: repeating-radial-gradient(circle, red,orange 13%,yellow 20%,green 10%,blue 26%,indigo 11%,violet 69%);
 }
 
-p{
+#mainp{
 	writing-mode: vertical-rl; 
 	background-color: lime;
 	color: purple;
