@@ -29,8 +29,11 @@ h1 {
 	width: 300px;
 }
 
-#sublink{
+.sublink{
 	text-decoration: none;
+}
+
+#paraii{
 	height: 8cm;
 	float: right;
 	background-color: darkgreen;
