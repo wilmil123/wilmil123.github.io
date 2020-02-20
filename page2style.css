@@ -1,3 +1,24 @@
 body{
-background-image: repeating-linear-gradient(steelblue, gold10%, maroon15%)
+  background-image: repeating-linear-gradient(steelblue, gold 10%, maroon 15%);
+}
+
+h1{
+  font-family: Arial, sans-serif;
+  color: hotpink;
+  font-size: xx-large;
+  font-stretch: expanded;
+}
+
+h2{
+  font-family: "Times New Roman", Times, serif;
+  color: olivedrab;
+  font-size: large;
+  font-stretch: condensed;
+  font-style: italic;
+}
+
+#para1{
+  background-color: navy;
+  color: lavender;
+  font-stretch: condensed;
 }
