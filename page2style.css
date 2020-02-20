@@ -8,10 +8,8 @@ h1{
   background-color: dimgray;
   font-size: xx-large;
   font-weight: 100;
-  height: 20%;
-  width: 80%;
+  height: 4cm;
   text-align: center;
-  float: center;
 }
 
 h1:hover{
@@ -20,10 +18,8 @@ h1:hover{
   background-color: dimgray;
   font-size: 300px;
   font-weight: 100;
-  height: 20%;
-  width: 80%;
+  height: auto;
   text-align: center;
-  float: center;
 }
 
 h2{
