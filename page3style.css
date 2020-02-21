@@ -24,13 +24,13 @@ body{
   text-align: center;
   font-family: "Courier New", Arial, sans-serif;
   font-style: oblique;
-  font-size: 2cm;
+  font-size: 1cm;
   text-shadow: 2px, 2px, lavender;
 }
 
 .aespara{
   color: lavender;
-  margin: 20px;
+  margin: 40px;
   font-family: "Verdana", Arial, sans-serif;
   font-style: oblique;
   font-weight: bold;
