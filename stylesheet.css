@@ -46,3 +46,9 @@ h1 {
 	color: yellow;
 	border: none;
 }
+#titular{
+	text-align: center;
+	font-size: 4cm;
+	color: teal;
+	font-family: "Futura", sans-serif;
+}
