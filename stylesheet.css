@@ -18,8 +18,6 @@ h1 {
 
 #tomato{
 	float: left;
-	transition: width 2s;
-	transform: rotate(180deg);
 	border-style: dashed;
 	border-width: 10px;
 	border-color: crimson;
@@ -27,6 +25,8 @@ h1 {
 
 #tomato:hover{
 	width: 300px;
+	transition: width 2s;
+	transform: rotate(180deg);
 }
 
 .sublink{
