@@ -32,7 +32,6 @@ h1 {
 .sublink{
 	text-decoration: none;
 	color: deeppink;
-	float: right;
 }
 
 .paraii{
@@ -40,4 +39,5 @@ h1 {
 	background-color: darkgreen;
 	float: right;
 	color: deeppink;
+	padding: 10px;
 }
