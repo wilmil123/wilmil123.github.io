@@ -1,0 +1,29 @@
+body{
+background-color: pink;
+}
+#momtitle{
+color: deeppink;
+font-size: 2cm;
+font-family: "Comic Sans MS", sans-serif;
+text-align: center;
+}
+#momsubtitle{
+color: deeppink;
+font-size: 1.5cm;
+font-family: "Comic Sans MS", sans-serif;
+text-align: center;
+}
+.momposthead{
+color: mediumvioletred;
+font-size: 0.8cm;
+font-family: cursive, serif;
+margin-left: 40px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.mompost{
+color: mediumvioletred;
+font-size: 0.5cm;
+font-family: Geneva, sans-serif;
+margin-left: 40px;
+}
