@@ -2,6 +2,14 @@ body{
   background-color: steelblue;
 }
 
+a{
+  text-decoration: none;
+  color: lavender;
+  font-family: "Verdana", Arial, sans-serif;
+  font-style: oblique;
+  font-weight: bold;
+}
+
 #aesheader1{
   color: white;
   text-align: center;
